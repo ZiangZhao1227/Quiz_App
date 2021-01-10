@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="891fd006-7f22-4caa-839d-1175d13deeed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Galaxy_Nexus_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hgxMSEOTDYH4S4f3nvMh0yWoh3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="dedaca6" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-06T15:03:38.430Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-2039727644">
+      <recent name="com.example.quizapp" />
+    </key>
+    <key name="android.template.1529431001">
+      <recent name="com.example.quizapp" />
+    </key>
+    <key name="android.template.-910110273">
+      <recent name="com.example.quizapp" />
+    </key>
+    <key name="android.template.1120049453">
+      <recent name="com.example.quizapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\android-kotlin-fundamentals-apps-master\android-kotlin-fundamentals-apps-master\QuizApp\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-1323240373">
+      <recent name="com.example.quizapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\android-kotlin-fundamentals-apps-master\android-kotlin-fundamentals-apps-master\QuizApp\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.1003156853">
+      <recent name="com.example.quizapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.ExampleUnitTest">
+    <configuration name="ExampleUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.quizapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.quizapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.quizapp.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.quizapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.quizapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.quizapp.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.selectedOptionView" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.quizapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.quizapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.quizapp.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="selectedOptionView" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizApp [dependencies]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleUnitTest$QuizQuestionsActivity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.quizapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.quizapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.quizapp.ExampleUnitTest$QuizQuestionsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest$QuizQuestionsActivity.onCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.quizapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.quizapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.quizapp.ExampleUnitTest$QuizQuestionsActivity" />
+      <option name="METHOD_NAME" value="onCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest" />
+        <item itemvalue="JUnit.ExampleUnitTest$QuizQuestionsActivity.onCreate" />
+        <item itemvalue="JUnit.ExampleUnitTest$QuizQuestionsActivity" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.selectedOptionView" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.addition_isCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891fd006-7f22-4caa-839d-1175d13deeed" name="Default Changelist" comment="" />
+      <created>1600446488017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600446488017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="124" key="#app" timestamp="1601994007402">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="172" y="124" key="#app/0.0.1500.960@0.0.1500.960" timestamp="1601994007402" />
+    <state x="703" y="268" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600777882943">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="703" y="268" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1600777882943" />
+    <state x="868" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1601471090206">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="868" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1601471090206" />
+    <state x="481" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601986295394">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1500.960@0.0.1500.960" timestamp="1601986295394" />
+    <state x="466" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601985734710">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="466" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1500.960@0.0.1500.960" timestamp="1601985734710" />
+    <state x="331" y="236" key="AndroidCreateResourceDirectoryDialog" timestamp="1601399645267">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="331" y="236" key="AndroidCreateResourceDirectoryDialog/0.0.1500.960@0.0.1500.960" timestamp="1601399645267" />
+    <state x="331" y="235" key="AndroidCreateResourceFileDialog" timestamp="1600957304690">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="331" y="235" key="AndroidCreateResourceFileDialog/0.0.1500.960@0.0.1500.960" timestamp="1600957304690" />
+    <state x="605" y="293" key="AndroidCreateXmlResourceDialog" timestamp="1601987076067">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="605" y="293" key="AndroidCreateXmlResourceDialog/0.0.1500.960@0.0.1500.960" timestamp="1601987076067" />
+    <state x="763" y="264" key="Downloadable.Font.Dialog.Size" timestamp="1601650759254">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="763" y="264" key="Downloadable.Font.Dialog.Size/0.0.1500.960@0.0.1500.960" timestamp="1601650759254" />
+    <state x="531" y="235" key="FileChooserDialogImpl" timestamp="1601986584581">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1601986584581" />
+    <state width="1120" height="244" key="GridCell.Tab.0.bottom" timestamp="1602011627072">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1120" height="244" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1602011627072" />
+    <state width="1120" height="244" key="GridCell.Tab.0.center" timestamp="1602011627072">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1120" height="244" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1602011627072" />
+    <state width="1120" height="244" key="GridCell.Tab.0.left" timestamp="1602011627072">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1120" height="244" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1602011627072" />
+    <state width="1120" height="244" key="GridCell.Tab.0.right" timestamp="1602011627072">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1120" height="244" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1602011627072" />
+    <state x="94" y="94" width="1313" height="773" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601900257721">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="94" y="94" width="1313" height="773" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1500.960@0.0.1500.960" timestamp="1601900257721" />
+    <state x="433" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1600950606802">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="433" y="304" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1600950606802" />
+    <state x="407" y="220" key="run.anything.popup" timestamp="1601398227781">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="407" y="220" key="run.anything.popup/0.0.1500.960@0.0.1500.960" timestamp="1601398227781" />
+    <state x="90" y="208" width="672" height="678" key="search.everywhere.popup" timestamp="1601056851097">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="90" y="208" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1601056851097" />
+  </component>
+</project>

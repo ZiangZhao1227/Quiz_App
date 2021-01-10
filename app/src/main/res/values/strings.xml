@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="username">Username</string>
+    <string name="display">The main idea of this application is helping people to memorize foreign words.</string>
+    <string name="display1">Hi, my name is Zhao Ziang.I\'m currently studying at Metropolia UAS.
+        I love programming and this mobile app is my first mobile app, which is still in beta.
+        Please feel free to evaluate this app and email me about it.
+    My email address is : zhaoziang1227@gmail.com</string>
+    <string name="regulation">Users need to answer at least 5 questions correctly to pass this quiz.</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="moi_hello_ciao_halo">Moi Hello! 你好~ Ciao Halo 안녕</string>
+    <string name="start">Start</string>
+    <string name="launch">Launch</string>
+    <string name="result">Result:</string>
+    <string name="todo">TODO</string>
+    <string name="assessment">assessment</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="redo_quiz">Redo quiz</string>
+</resources>
